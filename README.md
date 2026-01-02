@@ -1,5 +1,5 @@
 # 📸 React Gallery Webpage
-
+src/preview (4).png
 A responsive gallery webpage built using React that displays images fetched from an external API.
 
 ## 🚀 Features
